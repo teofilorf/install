@@ -1,0 +1,1 @@
+yaourt -syu --noconfirm -S virtualbox virtualbox{-ext-oracle,-guest-iso} yakuake google-chrome sublime-text rdesktop mc openssh mtr iouyap dynamips ubridge wireshark-qt vpcs dropbox wine gns3-{gui,server}
